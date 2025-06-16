@@ -340,6 +340,16 @@ HQ-CLI
 ![image](https://github.com/user-attachments/assets/4613a2f3-91c0-4820-9e22-305cd5d07934)
 
 
+![image](https://github.com/user-attachments/assets/ac55a88c-0972-4913-a882-3cb6a68edfee)
+![image](https://github.com/user-attachments/assets/ac55a88c-0972-4913-a882-3cb6a68edfee)
+
+
+![image](https://github.com/user-attachments/assets/fe98e7f9-c09d-4889-b14f-82ffa731608a)
+![image](https://github.com/user-attachments/assets/fe98e7f9-c09d-4889-b14f-82ffa731608a)
+
+
+ipsec status
+
 
 
 
