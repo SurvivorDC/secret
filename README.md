@@ -333,6 +333,18 @@ HQ-CLI
 После этого перезагружаем систему командой reboot и пробуем войти под учетной записью administrator@au-team.irpo
 
 
+![image](https://github.com/user-attachments/assets/fc7fb17c-e107-40ce-bfdf-be9fbd2689fe)
+![image](https://github.com/user-attachments/assets/fc7fb17c-e107-40ce-bfdf-be9fbd2689fe)
+
+![image](https://github.com/user-attachments/assets/4613a2f3-91c0-4820-9e22-305cd5d07934)
+![image](https://github.com/user-attachments/assets/4613a2f3-91c0-4820-9e22-305cd5d07934)
+
+
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/4e19c52d-3a58-495c-8b54-f3865f142f85)
 ![image](https://github.com/user-attachments/assets/4e19c52d-3a58-495c-8b54-f3865f142f85)
