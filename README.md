@@ -432,6 +432,8 @@ CHRONY
 
 MOODLE
 
+GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,CREATE TEMPORARY TABLES,DROP,INDEX,ALTER ON moodle.* TO 'moodle'@’localhost’;
+
 
 ![image](https://github.com/user-attachments/assets/0582bbf3-0e70-45e7-b36b-54c227865acb)
 
